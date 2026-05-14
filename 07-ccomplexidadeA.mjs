@@ -37,3 +37,5 @@ function exemploN2(arr) {
 
 const arr = [1,2,3,4,5];
 exemploN2(arr)
+ados = Array.from({ length: 1000 }, () => Math.random());
+examploN2(dados)
